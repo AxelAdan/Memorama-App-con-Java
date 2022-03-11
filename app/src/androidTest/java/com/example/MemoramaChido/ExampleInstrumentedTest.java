@@ -1,4 +1,4 @@
-package com.example.mymemorama;
+package com.example.MemoramaChido;
 
 import android.content.Context;
 
@@ -16,6 +16,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.mymemorama", appContext.getPackageName());
+        assertEquals("com.example.MemoramaChido", appContext.getPackageName());
     }
 }

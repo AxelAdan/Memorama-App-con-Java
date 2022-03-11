@@ -1,4 +1,4 @@
-package com.example.mymemorama;
+package com.example.MemoramaChido;
 
 import org.junit.Test;
 

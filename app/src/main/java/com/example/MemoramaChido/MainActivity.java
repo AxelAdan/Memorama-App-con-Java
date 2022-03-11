@@ -1,4 +1,4 @@
-package com.example.mymemorama;
+package com.example.MemoramaChido;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
