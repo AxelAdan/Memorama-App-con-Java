@@ -1,4 +1,4 @@
-![Java](https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png)
+![Java](http://www.forcode.es/wp-content/uploads/2012/12/Logo-Java.jpg)
 
 # Aplicación Móvil (Juego Memorama +18)
 Este es un juego para una aplicación móvil, exclusivo para el sistema operativo Android (>Android Lollipop 5.0), que fue creado para un proyecto escolar con fines de poder divertirme.
